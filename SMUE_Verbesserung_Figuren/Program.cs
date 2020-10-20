@@ -44,6 +44,7 @@ namespace SMUE_Verbesserung_Figuren
             Console.WriteLine($"Summe der Ecken: {summeEcken(figuren)}");
             Console.ReadKey();
             //
+            //
         }
     }
 }
